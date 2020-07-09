@@ -1,4 +1,4 @@
-![Welcome PNG](welcome-github-static.png)
+![Welcome PNG](https://github.com/lchristina26/lchristina26/blob/master/welcome-github-static.png?raw=true)
 
 <!--
 **lchristina26/lchristina26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
